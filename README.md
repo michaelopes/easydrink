@@ -7,7 +7,7 @@
 **LinkedIn:** https://linkedin.com/in/michaelslopes/ <br/>
 
 ## Download do APK demo
-https://github.com/michaelopes/easydrink/blob/main/demo/app.apk?raw=true
+https://github.com/michaelopes/easydrink/blob/master/demo/app.apk?raw=true
 
 ## Imagens
 ![Images](https://user-images.githubusercontent.com/10121156/104336345-aeefa500-54ca-11eb-8c18-ebe9db5b62c2.png)
