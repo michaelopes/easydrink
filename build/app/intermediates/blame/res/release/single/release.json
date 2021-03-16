@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/app/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_easydrink_short_logo.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xxxhdpi/easydrink_short_logo.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/app/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout_custom_dialog.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/app/generated/res/pngs/release/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/app/generated/res/pngs/release/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/xml_flutter_share_file_paths.xml.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/share/intermediates/packaged_res/release/xml/flutter_share_file_paths.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/app/generated/res/pngs/release/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/app/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/build/app/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macmini/Documents/Lab/easydrink/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,8 @@
+# Referenced at /Users/macmini/Documents/Lab/easydrink/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/macmini/Documents/Lab/easydrink/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:25
+-keep class com.example.easydrink.MainActivity { <init>(); }
+# Referenced at /Users/macmini/Documents/Lab/easydrink/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/macmini/Documents/Lab/easydrink/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:68
+-keep class io.flutter.plugins.share.ShareFileProvider { <init>(); }

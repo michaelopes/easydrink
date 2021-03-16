@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/Primary" />
+
+    <!-- You can insert your own image assets here 
+     <item>
+        <bitmap
+            android:width="35dp"
+            android:height="35dp"
+            android:gravity="center"
+            android:src="@mipmap/square_icon" />
+    </item>-->
+
+   <item
+        android:width="131dp"
+        android:height="79dp"
+        android:drawable="@mipmap/easydrink_short_logo"
+        android:gravity="center" />
+</layer-list>
+

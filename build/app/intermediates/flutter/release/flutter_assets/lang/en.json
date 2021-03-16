@@ -1,0 +1,51 @@
+{
+    "fastFilters": "Fast find",
+    "findBy": "Find by:",
+    "categories": "Categories",
+    "ingredients": "Ingredients",
+    "glassTypes": "Glass types",
+    "drinkTypes": "Drink types",
+    "filters": "Filters",
+    "addingFavorite": "Adding to favorite",
+    "removingFavorite": "Removing to favorite",
+    "ratingDrink": "Rate drink",
+    "ratingApp": "Rate App",
+    "finish": "Finish",
+    "waiting": "Wainting...",
+    "search": {
+        "title": "Search",
+        "subtitle": "Search and learn how to make drinks",
+        "barHintText": "Search for drinks eg: Margarita"
+    },
+    "filter": {  
+       "name": "Drink name",
+       "ingredient": "Ingredient name",
+       "category": "Category name",
+       "glassType": "Glass type",
+       "drinkType": "Drink type"
+    },
+    "listExeptionsResult": {
+        "noItemsTitle": "Nothing here",
+        "noItemsMsg": "No records found"
+    },
+    "drinkDetail": {
+        "errorMsg": "An error occurred while fetching the details of this drink. Please try again later.",
+        "preparationMode": "Preparation mode",
+        "translatedTo": "Translated to {{lang}}",
+        "showOriginal": "Show original",
+        "showTranslated": "Show translation",
+        "originalText": "Original text"
+    },
+    "favorite": {
+        "title": "My favorites",
+        "subtitle": "All your favorite drinks"
+    },
+    "menu": {
+        "title": "Menu",
+        "subtitle": "Choose one of the options below",
+        "aboutThisApp": "About this app",
+        "useTerms": "Terms of use",
+        "privacyPolicy": "Privacy policy",
+        "ratingThisApp": "Rate this app"
+    }
+}

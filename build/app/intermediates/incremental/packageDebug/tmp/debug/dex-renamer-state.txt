@@ -1,0 +1,4 @@
+#Tue Jan 12 15:20:07 AMT 2021
+base.0=/Users/macmini/Documents/Lab/easydrink/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

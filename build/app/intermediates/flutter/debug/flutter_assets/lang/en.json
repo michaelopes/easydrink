@@ -1,0 +1,37 @@
+{
+    "fastFilters": "Busca rápida",
+    "findBy": "Buscar por:",
+    "categories": "Categorias",
+    "ingredients": "Ingredientes",
+    "glassTypes": "Tipos de copos",
+    "drinkTypes": "Tipo de bebidas",
+    "filters": "Filtros",
+    "addingFavorite": "Adicionando aos favoritos",
+    "removingFavorite": "Removendo dos favoritos",
+    "ratingDrink": "Avaliar drink",
+    "finish": "Finalizar",
+    "waiting": "Aguarde...",
+    "search": {
+        "title": "Pesquisar",
+        "subtitle": "Busque e aprenda a fazer drinks",
+        "barHintText": "Busque por drinks ex: Margarita"
+    },
+    "filter": {  
+       "name": "Nome do Drink",
+       "ingredient": "Nome do ingrediente",
+       "category": "Nome da categoria",
+       "glassType": "Tipo de copo",
+       "drinkType": "Tipo de bebida"
+    },
+    "listExeptionsResult": {
+        "noItemsTitle": "Nada por aqui",
+        "noItemsMsg": "Nenhum registro encontrado"
+    },
+    "drinkDetail": {
+        "errorMsg": "Ocorreu um erro ao buscar o detalhamento deste drink. Por favor, tente novamente mais tarde.",
+        "preparationMode": "Modo de preparo",
+        "translatedTo": "Traduzido para {{lang}}",
+        "showOriginal": "Mostrar original",
+        "showTranslated": "Mostrar tradução"
+    }
+}

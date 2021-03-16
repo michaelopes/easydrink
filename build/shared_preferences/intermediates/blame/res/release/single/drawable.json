@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/shared_preferences/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/shared_preferences/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/shared_preferences/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/macmini/Documents/Lab/easydrink/build/shared_preferences/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/macmini/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

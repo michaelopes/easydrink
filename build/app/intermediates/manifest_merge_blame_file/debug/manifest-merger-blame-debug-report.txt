@@ -1,0 +1,115 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.easydrink"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:8:6-67
+14-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:8:23-65
+15
+16    <application
+16-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:9:5-49:19
+17        android:name="io.flutter.app.FlutterApplication"
+17-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:10:9-57
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.1] /Users/macmini/.gradle/caches/transforms-2/files-2.1/92122df0879963db4a927cde31ef6bfe/core-1.3.1/AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:12:9-43
+21        android:label="EasyDrink"
+21-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:11:9-34
+22        android:roundIcon="@mipmap/ic_launcher_round" >
+22-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:13:9-54
+23        <activity
+23-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:14:9-43:20
+24            android:name="com.example.easydrink.MainActivity"
+24-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:15:13-41
+25            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+25-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:19:13-163
+26            android:hardwareAccelerated="true"
+26-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:20:13-47
+27            android:launchMode="singleTop"
+27-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:16:13-43
+28            android:screenOrientation="portrait"
+28-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:18:13-49
+29            android:theme="@style/LaunchTheme"
+29-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:17:13-47
+30            android:windowSoftInputMode="adjustResize" >
+30-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:21:13-55
+31
+32            <!--
+33                 Specifies an Android theme to apply to this Activity as soon as
+34                 the Android process has started. This theme is visible to the user
+35                 while the Flutter UI initializes. After that, this theme continues
+36                 to determine the Window background behind the Flutter UI.
+37            -->
+38            <meta-data
+38-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:26:13-29:17
+39                android:name="io.flutter.embedding.android.NormalTheme"
+39-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:27:15-70
+40                android:resource="@style/NormalTheme" />
+40-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:28:15-52
+41            <!--
+42                 Displays an Android View that continues showing the launch screen
+43                 Drawable until Flutter paints its first frame, then this splash
+44                 screen fades out. A splash screen is useful to avoid any visual
+45                 gap between the end of Android's launch screen and the painting of
+46                 Flutter's first frame.
+47            -->
+48            <meta-data
+48-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:35:13-38:17
+49                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+49-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:36:15-79
+50                android:resource="@drawable/launch_background" />
+50-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:37:15-61
+51
+52            <intent-filter>
+52-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:39:13-42:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:40:17-68
+53-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:40:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:41:17-76
+55-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:41:27-74
+56            </intent-filter>
+57        </activity>
+58        <!--
+59             Don't delete the meta-data below.
+60             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+61        -->
+62        <meta-data
+62-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:46:9-48:33
+63            android:name="flutterEmbedding"
+63-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:47:13-44
+64            android:value="2" />
+64-->/Users/macmini/Documents/Lab/easydrink/android/app/src/main/AndroidManifest.xml:48:13-30
+65
+66        <provider
+66-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-16:20
+67            android:name="io.flutter.plugins.share.ShareFileProvider"
+67-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-70
+68            android:authorities="com.example.easydrink.flutter.share_provider"
+68-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-74
+69            android:exported="false"
+69-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-37
+70            android:grantUriPermissions="true" >
+70-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-47
+71            <meta-data
+71-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:68
+72                android:name="android.support.FILE_PROVIDER_PATHS"
+72-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-67
+73                android:resource="@xml/flutter_share_file_paths" />
+73-->[:share] /Users/macmini/Documents/Lab/easydrink/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-65
+74        </provider>
+75    </application>
+76
+77</manifest>
